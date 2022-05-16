@@ -12,7 +12,7 @@ builder.Services.ConfigureIISIntegration();
 builder.Services.ConfigureLoggerService();
 
 
-
+// ### DONT LIKE THAT WE HAVE 2 DEP. IN CORE ###
 // Add services to the container.
 
 builder.Services.AddControllers();
