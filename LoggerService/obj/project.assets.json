@@ -113,6 +113,16 @@
         "runtime": {
           "bin/placeholder/Contracts.dll": {}
         }
+      },
+      "Service.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Service.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Service.Contracts.dll": {}
+        }
       }
     }
   },
@@ -330,12 +340,18 @@
       "type": "project",
       "path": "../Contracts/Contracts.csproj",
       "msbuildProject": "../Contracts/Contracts.csproj"
+    },
+    "Service.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../Service.Contracts/Service.Contracts.csproj",
+      "msbuildProject": "../Service.Contracts/Service.Contracts.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Contracts >= 1.0.0",
-      "NLog.Extensions.Logging >= 1.7.4"
+      "NLog.Extensions.Logging >= 1.7.4",
+      "Service.Contracts >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -367,6 +383,9 @@
           "projectReferences": {
             "C:\\Users\\K\\Source\\repos\\CompanyEmployees\\Contracts\\Contracts.csproj": {
               "projectPath": "C:\\Users\\K\\Source\\repos\\CompanyEmployees\\Contracts\\Contracts.csproj"
+            },
+            "C:\\Users\\K\\Source\\repos\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj": {
+              "projectPath": "C:\\Users\\K\\Source\\repos\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj"
             }
           }
         }

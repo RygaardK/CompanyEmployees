@@ -1,4 +1,11 @@
-﻿skall vi verkligen ha dependencies från CompanyEmployees? som jag anser är CORE...!? - Using Contract är det jag syftar på.
-
+﻿---
 
 What is Dependency Injection (DI) exactly and what is IoC (Inversion of Control) and Logger Service Testing
+Har vi börjat nyttja detta till max är min fråga / tanke gång... kolla YT tips o Tricks kring DI etc.
+
+---
+
+#På sida 58 hittar du denna snutt.
+finns i ctor: employeeRepository = new Lazy<IEmployeeRepository>(() => new
+				EmployeeRepository(repositoryContext));
+Låt oss prata om detta i gruppen.

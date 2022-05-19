@@ -18,3 +18,11 @@
 2022-05-16 11:44:34.6634 DEBUG Here is debug message from our values controller.
 2022-05-16 11:44:34.6753 WARN Here is warn message from our values controller.
 2022-05-16 11:44:34.6753 ERROR Here is an error message from our values controller.
+2022-05-16 22:30:11.7552 INFO Here is info message from our values controller.
+2022-05-16 22:30:11.8634 DEBUG Here is debug message from our values controller.
+2022-05-16 22:30:11.8634 WARN Here is warn message from our values controller.
+2022-05-16 22:30:11.8634 ERROR Here is an error message from our values controller.
+2022-05-16 23:05:19.9670 INFO Here is info message from our values controller.
+2022-05-16 23:05:20.1229 DEBUG Here is debug message from our values controller.
+2022-05-16 23:05:20.1229 WARN Here is warn message from our values controller.
+2022-05-16 23:05:20.1432 ERROR Here is an error message from our values controller.

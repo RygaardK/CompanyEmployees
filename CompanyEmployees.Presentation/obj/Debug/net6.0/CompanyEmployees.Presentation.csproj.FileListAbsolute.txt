@@ -1,0 +1,15 @@
+C:\Users\K\Source\repos\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\CompanyEmployees.Presentation.deps.json
+C:\Users\K\Source\repos\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\CompanyEmployees.Presentation.dll
+C:\Users\K\Source\repos\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\CompanyEmployees.Presentation.pdb
+C:\Users\K\Source\repos\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\Service.Contracts.dll
+C:\Users\K\Source\repos\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\Service.Contracts.pdb
+C:\Users\K\Source\repos\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.csproj.AssemblyReference.cache
+C:\Users\K\Source\repos\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\K\Source\repos\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.AssemblyInfoInputs.cache
+C:\Users\K\Source\repos\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.AssemblyInfo.cs
+C:\Users\K\Source\repos\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\K\Source\repos\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.csproj.CopyComplete
+C:\Users\K\Source\repos\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.dll
+C:\Users\K\Source\repos\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\refint\CompanyEmployees.Presentation.dll
+C:\Users\K\Source\repos\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.pdb
+C:\Users\K\Source\repos\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\ref\CompanyEmployees.Presentation.dll

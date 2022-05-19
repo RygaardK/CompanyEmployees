@@ -1,5 +1,8 @@
-﻿using Contracts; // Didnt tell us to add, Contract and logger should be globaly added.
+﻿using Contracts;
 using LoggerService;
+using Microsoft.EntityFrameworkCore;
+using Repository;
+using Service;
 
 namespace CompanyEmployees.Extensions
 {
@@ -16,7 +19,6 @@ namespace CompanyEmployees.Extensions
              .AllowAnyMethod()
              .AllowAnyHeader());
          });
-
         public static void ConfigureIISIntegration(this IServiceCollection services) =>
             services.Configure<IISOptions>(options =>
                 {
@@ -24,10 +26,15 @@ namespace CompanyEmployees.Extensions
                     //options.AuthenticationDisplayName = "Krille";
                     //options.ForwardClientCertificate = true;
                 });
-
         public static void ConfigureLoggerService(this IServiceCollection services) =>
-        services.AddSingleton<ILoggerManager, LoggerManager>();
-
+            services.AddSingleton<ILoggerManager, LoggerManager>();
+        public static void ConfigureRepositoryManager(this IServiceCollection services) =>
+            services.AddScoped<IRepositoryManager, RepositoryManager>();
+        public static void ConfigureServiceManager(this IServiceCollection services) =>
+            services.AddScoped<IServiceManager, ServiceManager>();
+        public static void ConfigureSqlContext(this IServiceCollection services,
+            IConfiguration configuration) =>
+                services.AddDbContext<RepositoryContext>(opts =>
+                    opts.UseSqlServer(configuration.GetConnectionString("sqlConnection")));
     }
-
 }

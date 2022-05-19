@@ -66,3 +66,13 @@ C:\Users\K\Source\repos\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Entit
 C:\Users\K\Source\repos\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Repository.dll
 C:\Users\K\Source\repos\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Repository.pdb
 C:\Users\K\Source\repos\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Entities.pdb
+C:\Users\K\Source\repos\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\K\Source\repos\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\K\Source\repos\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\K\Source\repos\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\CompanyEmployees.Presentation.dll
+C:\Users\K\Source\repos\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Service.Contracts.dll
+C:\Users\K\Source\repos\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Service.dll
+C:\Users\K\Source\repos\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\CompanyEmployees.Presentation.pdb
+C:\Users\K\Source\repos\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Service.Contracts.pdb
+C:\Users\K\Source\repos\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Service.pdb
+C:\Users\K\Source\repos\CompanyEmployees\CompanyEmployees\obj\Debug\net6.0\CompanyEmployees.MvcApplicationPartsAssemblyInfo.cs
