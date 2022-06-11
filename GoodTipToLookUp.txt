@@ -10,6 +10,20 @@ Vi kan skapa egna roliga parametrar som vi roppar på smidigt från apppsett
 
 
 
+PAGE 75:
+
+A Record type provides us an easier way to create an immutable
+reference type in .NET. This means that the Record’s instance property
+values cannot change after its initialization. The data are passed by value
+and the equality between two Records is verified by comparing the value
+of their properties.
+
+immutable = secure
 
 
-Keep Up: 56
+PAGE: 159
+
+If we want, we can add the custom error messages in our action:
+ModelState.AddModelError(string key, string errorMessage)
+With this expression, the additional error message will be included with all
+the other messages.

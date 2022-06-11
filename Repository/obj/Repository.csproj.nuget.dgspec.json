@@ -28,7 +28,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\K\\Source\\repos\\CompanyEmployees\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\K\\Source\\repos\\CompanyEmployees\\Entities\\Entities.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

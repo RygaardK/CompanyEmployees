@@ -13,3 +13,7 @@ C:\Users\K\Source\repos\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug
 C:\Users\K\Source\repos\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\refint\CompanyEmployees.Presentation.dll
 C:\Users\K\Source\repos\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.pdb
 C:\Users\K\Source\repos\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\ref\CompanyEmployees.Presentation.dll
+C:\Users\K\Source\repos\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\Shared.dll
+C:\Users\K\Source\repos\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\Shared.pdb
+C:\Users\K\Source\repos\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\Entities.dll
+C:\Users\K\Source\repos\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\Entities.pdb

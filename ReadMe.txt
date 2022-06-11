@@ -1,4 +1,6 @@
 ﻿This is a test project for learning API, Routing, Authentication and so on from a Course...
+U will  need 
+
 _______________________________________________________________________________
 Course: Ultimate ASP.NET CORE WEB API Second Edition - From Zero to Six-Figure Backend Developer.
 By: Marinko Spasojevic & Vladimir Pecanac

@@ -1,11 +1,18 @@
 ﻿---
-
 What is Dependency Injection (DI) exactly and what is IoC (Inversion of Control) and Logger Service Testing
 Har vi börjat nyttja detta till max är min fråga / tanke gång... kolla YT tips o Tricks kring DI etc.
-
 ---
+Varför och när skall man använda Task<T>, kan man överanvända? 
+---
+Sida 94 i den gråa boxen, så har man inga brackets - va heter det? (Pseudo Code) eller?! Så när stänger pseudo av sig? < kan bara innehålla ett uyttryck?!
+---
+private static void FormatCsv(StringBuilder buffer, CompanyDto company)
+    {
+        buffer.AppendLine($"{company.Id},\"{company.Name},\"{company.FullAddress}\"");
+    }
 
-#På sida 58 hittar du denna snutt.
-finns i ctor: employeeRepository = new Lazy<IEmployeeRepository>(() => new
-				EmployeeRepository(repositoryContext));
-Låt oss prata om detta i gruppen.
+När något genereras så lagras det i RAM/HDD (Textsträng / filgenerering) på servern medans det skickas över till klient!? När skrivs den över? Hur sätter jag själv en gräns?
+//konstig tanke, det hanterar OS...
+---
+Varför använder man get; init? :)
+---
